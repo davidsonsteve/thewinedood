@@ -1,0 +1,160 @@
+﻿
+/** Color Palatte: 
+	https://coolors.co/20183f-5e5c5e-686587-d3c44e
+	https://coolors.co/1e2019-394032-686587-8dab7f-82ab1a
+
+	https://coolors.co/4e5340-95a3a4-686587-b7d1da-e2e8dd
+
+	2A3D45 japanese indigo
+	484041 dark puce
+	381D2A dark purple
+	https://coolors.co/221d3c-5e4955-996888-c99da3-c6ddf0
+*                   
+**/
+
+.body {
+
+	background-color:#eee;
+	background-image: url("../images/diamond-upholstery.png");
+	color:#262644;
+	min-height: 2000px;
+
+}
+
+.about {
+	text-align: center;
+}
+
+.about-text {
+	font-size: 220%;
+	font-family: courier;
+	padding:5%;
+	color: #dbd6c7;
+}
+
+.disclaimer-text {
+	font-size: 50%;
+	color: #221d3c;
+}
+	
+.maincats{
+	background-color:rgba(57,64,50,0.7);
+
+}	
+
+.lowermenu {
+	/*background-color:#394032;*/
+	
+}
+
+
+
+.bblabel {
+	text-align: center;
+	
+}
+
+.bigbuttons {
+	margin-top: 15px;
+	margin-bottom: 5px;
+}
+
+.billboard {
+
+	padding: 1%;
+	background-color: rgba(57,64,50,1);
+
+}
+
+.billboardimg {
+	/*box-shadow: 0px 0px 30px #262644;*/
+	margin:auto;
+	position:relative;
+	z-index: 1;
+
+
+}
+
+.largeitem {
+	padding: 2px;
+	box-shadow: 0px 0px 20px #000;
+	background-color: none;
+	cursor: pointer;
+	
+	
+}
+
+
+.lowerlabel {
+	text-align: center;
+	width:100%;
+	background-color: #fff;
+	margin-top:10px;
+
+}
+
+.vintage {
+	 
+	 margin-left:3px;
+	 margin-right: 3px;
+	 padding: 3px;
+	 border-radius: 5px;
+	 cursor: pointer;
+
+}
+
+.lltitle {
+	font-weight:bold;
+	color: #262644;
+}
+
+.winecard {
+	background-color: #f7f2e3;
+}
+
+.winetitle {
+	color: #262644;
+	padding: 15px;
+	background-color: #9ea89a;
+	box-shadow: 0px 0px 10px yellow;
+}
+
+.lldesc {
+	font-style: italic;
+	color: #262644;
+	padding-bottom:10px;
+}
+
+.wine-sq {
+	margin: 10px;
+	float:right;
+	padding: 7px;
+	box-shadow: 0px 0px 10px #9ea89a;
+	background-color: white;
+}
+
+.stats{
+	
+	padding: 5px;
+	height:100%;
+
+}
+
+#fibb14stats {
+	 background-color: #f7f2e3;
+	 border-radius: 10px;
+	 border: 1px solid #076382;
+	 margin: 5px;
+
+	}
+
+#fibb15stats {
+	 background-color: #f7f2e3;
+	 border-radius: 10px;
+	 border: 1px solid #076382;
+	 margin: 5px;
+
+	}
+
+
+
